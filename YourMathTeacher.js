@@ -29,4 +29,4 @@ function reverse(s)
 {
 return s.split("").reverse().join("");
 }
-// Your Math Teacher BY VP70[NIHFEX] 04/11/2016
+// Your Math Teacher BY 5BTC[NIHFEX] 04/11/2016
